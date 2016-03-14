@@ -1,4 +1,4 @@
-# ScalaCahallenge
+# ScalaChallenge
 ---
 Bienvenue a toi !
 
